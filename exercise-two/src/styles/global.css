@@ -1,0 +1,19 @@
+.main__container{
+    position: relative;
+    padding-bottom: 30px;
+    margin:20%;
+    margin-top:0px;
+    width: 65%;
+    height: 10px;
+}
+.main__title{
+font-size: 41px;
+}
+.main__hook, .main__paragraph{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 17.5px;
+color: #212529;
+}
+.main__image{
+    width: 100%;
+}

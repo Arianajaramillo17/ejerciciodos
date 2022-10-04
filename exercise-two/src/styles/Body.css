@@ -1,0 +1,13 @@
+
+.mainNew__link{
+color:red
+}
+.mainNew__link:hover{
+color: rgb(42, 144, 240);
+}
+.mainNew__link--red{
+    padding-bottom: 30px;
+}
+.mainNew__link--red:hover{
+    color: red;
+}
